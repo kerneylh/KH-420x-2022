@@ -3,6 +3,3 @@
 IMGD/CS 420x Demo
 
 Assignment 1 - Shader Live Coding:
-*Video
-*Code
-*Explanation
