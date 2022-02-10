@@ -14,4 +14,4 @@ IMGD/CS 420x Demo
 ### [MiniAssignment](https://kerneylh.github.io/Graphics-Pages/miniAssignment.html) ###
 
 ### Assignment 3 - Reaction Diffusion: ###
-- [Project](https://kerneylh.github.io/Graphics-Pages/assignment3.html), [Repository](https://kerneylh.github.io/Graphics-Pages/assignment3.html), [Explanation](https://docs.google.com/document/d/1W7aZjSnaqDELzcFE9jHcGlXPz8gkbdjpjyYHiBQiML4/edit?usp=sharing)
+- [Project](https://kerneylh.github.io/Graphics-Pages/assignment3.html), [Repository](https://github.com/kerneylh/KH-420x-2022/tree/main/Assignment3), [Explanation](https://docs.google.com/document/d/1W7aZjSnaqDELzcFE9jHcGlXPz8gkbdjpjyYHiBQiML4/edit?usp=sharing)
