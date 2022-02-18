@@ -17,4 +17,4 @@ IMGD/CS 420x Demo
 - [Project](https://kerneylh.github.io/Graphics-Pages/assignment3.html), [Repository](https://github.com/kerneylh/KH-420x-2022/tree/main/Assignment3), [Explanation](https://docs.google.com/document/d/1W7aZjSnaqDELzcFE9jHcGlXPz8gkbdjpjyYHiBQiML4/edit?usp=sharing)
 
 ### WIP Assignment 4 - Physarum: ###
-- [Project](https://kerneylh.github.io/Graphics-Pages/assignment3.html), [Repository](https://github.com/kerneylh/KH-420x-2022/tree/main/Assignment3), [Explanation](https://docs.google.com/document/d/1mLJ8ijt75jx8ngMhwhMB3L3kKIYjXaKLh-sSDQDXES8/edit?usp=sharingg)
+- [Project](https://kerneylh.github.io/Graphics-Pages/assignment4.html), [Repository](https://github.com/kerneylh/KH-420x-2022/tree/main/Assignment%204), [Explanation](https://docs.google.com/document/d/1mLJ8ijt75jx8ngMhwhMB3L3kKIYjXaKLh-sSDQDXES8/edit?usp=sharingg)
