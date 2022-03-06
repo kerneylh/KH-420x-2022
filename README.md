@@ -21,5 +21,8 @@ IMGD/CS 420x Demo
 
 ### Final Project ###
 Partner: [Jasmine Duerk](https://github.com/jlduerk/CS420X)
-- [Project Video OBS](https://www.youtube.com/watch?v=lV8gpF6l5KM), [Project Video Light Sensor](https://www.youtube.com/watch?v=XtDwMuOE1IM&ab_channel=JasmineDuerk), [Repository](https://github.com/jlduerk/Physarum/tree/main/fluidshader), [Write-Up](https://docs.google.com/document/d/1pu-8aUsEmScqmC_ZsGMIBocwStZb1f3naf3tdj_k4K4/edit?usp=sharing)
+- [Project Video OBS](https://www.youtube.com/watch?v=lV8gpF6l5KM)
+- [Project Video Light Sensor](https://www.youtube.com/watch?v=XtDwMuOE1IM&ab_channel=JasmineDuerk)
+- [Repository](https://github.com/jlduerk/Physarum/tree/main/fluidshader)
+- [Write-Up](https://docs.google.com/document/d/1pu-8aUsEmScqmC_ZsGMIBocwStZb1f3naf3tdj_k4K4/edit?usp=sharing)
 - Read challenges portion for instructions on running (and why it does not work initially).
