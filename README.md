@@ -18,3 +18,7 @@ IMGD/CS 420x Demo
 
 ### Assignment 4 - Physarum: ###
 - [Project](https://kerneylh.github.io/Graphics-Pages/assignment4.html), [Repository](https://github.com/kerneylh/KH-420x-2022/tree/main/Assignment%204), [Explanation](https://docs.google.com/document/d/1mLJ8ijt75jx8ngMhwhMB3L3kKIYjXaKLh-sSDQDXES8/edit?usp=sharingg)
+
+### Final Project ###
+Partner: Jasmine Duerk
+- [Project Video OBS](https://www.youtube.com/watch?v=lV8gpF6l5KM), [Project Video Light Sensor](https://www.youtube.com/watch?v=XtDwMuOE1IM&ab_channel=JasmineDuerk), [Repository](https://github.com/jlduerk/Physarum/tree/main/fluidshader), [Write-Up](https://docs.google.com/document/d/1pu-8aUsEmScqmC_ZsGMIBocwStZb1f3naf3tdj_k4K4/edit?usp=sharing)
